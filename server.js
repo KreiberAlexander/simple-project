@@ -14,4 +14,4 @@
 // 5 вносишь изменения 
 //  git add .
 //  git commit -m 'add blabla'
-//  git push.
+//  git push
