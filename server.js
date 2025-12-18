@@ -15,3 +15,8 @@
 //  git add .
 //  git commit -m 'add blabla'
 //  git push
+// Как отменить какой-то коммит, который уже запушили?
+// узнать код коммита с помощью git log --oneline
+// git revert <hash commit> --no-edit
+// Например 
+// git revert b69bf71 --no-edit
