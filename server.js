@@ -10,7 +10,7 @@
 // 4. Сделаем гитпуш в одноименную удаленную ветку
 //  из sum в origin sum
 //  первый пуш должен содержать флаг -u 
-//  git push -u origin home_page
+//  git pushhome_page
 // 5 вносишь изменения 
 //  git add .
 //  git commit -m 'add blabla'
