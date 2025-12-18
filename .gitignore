@@ -1,0 +1,7 @@
+.DC__Store
+example.txt
+#Wse zip files ignored
+*.zip
+*.mp4
+.env
+node_modules
